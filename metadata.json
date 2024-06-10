@@ -1,5 +1,14 @@
 {
-  "name": "Testlol Token",
-  "symbol": "Tes",
-  "image": "https://raw.githubusercontent.com/Daxconex/Testloltoken/main/Testlol.png"
-}
+    "name": "Testlol Token",
+    "symbol": "Tes",
+    "image": "https://raw.githubusercontent.com/Daxconex/Testloltoken/main/Testlol.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/Daxconex/Testloltoken/main/Testlol.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
